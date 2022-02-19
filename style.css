@@ -1,0 +1,20 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.titleh1 {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #something {
+    font-size: 18px;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px black;
+    border-radius: 5px;
+    margin-top: 30px;
+}
